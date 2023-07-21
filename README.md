@@ -2,14 +2,13 @@
 
 ### A beautiful minimal and accessible portfolio template for Developers ✨.
 
-To View the live site click [here &rarr;](https://portfolio-template.surge.sh)
+To View the live site click [here &rarr;](https://jaamiujamaal.github.io/)
 
 ![Portfolio Gif](/images/portfolio.gif)
 
 ## Want to learn How to create a template like this ?
 
-You can watch [this video series](https://www.youtube.com/watch?v=1nchVfpMGSg&list=PLwJBGAxcH7GzdavgKlCACbESzr-40lw3L) on my youtube channel where I re-create this from scratch. 
-
+You can watch how to re-create this from scratch [this video series](https://www.youtube.com/watch?v=1nchVfpMGSg&list=PLwJBGAxcH7GzdavgKlCACbESzr-40lw3L) on the youtube channel.
 
 
 ## Features
@@ -33,10 +32,10 @@ You can watch [this video series](https://www.youtube.com/watch?v=1nchVfpMGSg&li
 You'll need [Git](https://git-scm.com) to be installed on your computer. 
 ```
 # Clone this repository
-$ git clone https://github.com/nisarhassan12/portfolio-template
+$ git clone https://github.com/jaamiujamaal/portfolio-template
 ```
 
-If you don't have Git installed or you don't like using the terminal then you can download the [zip](https://github.com/nisarhassan12/portfolio-template/archive/master.zip) and extract that and open the extracted folder in the code editor of your your choice.
+If you don't have Git installed or you don't like using the terminal then you can download the [zip](https://github.com/jaamiujamaal/jamiu2web/archive/refs/heads/main.zip) and extract that and open the extracted folder in the code editor of your your choice.
 
 ## Editing the Template 🔨
 
@@ -51,10 +50,10 @@ In all of the places where you're supposed to fill your information you'll find 
     <div class="header__text">
         <h1 class="heading-primary">
         <!-- Replace the following name with your name -->
-        <span>Syed Ali Hussnain</span>
+        <span>Adewale Jamiu O.</span>
         </h1>
         <!-- Put a small paragraph about yourself -->
-        <p>A Web Developer based in Lahore, Pakistan.</p>
+        <p>A Web Developer based in Lagos, Nigeria.</p>
         <a href="#contact" class="btn btn--pink">Get in touch</a>
     </div>
 </div>
@@ -82,7 +81,7 @@ Each div with class `work__box` represents a project, replace the contents of th
         <a href="#" class="link__text">
         Visit Site <span>&rarr;</span>
         </a> 
-        <a href="https://github.com/nisarhassan12/portfolio" target="_blank">
+        <a href="https://github.com/jaamiujamaal/portfolio" target="_blank">
         <img src="./images/github.svg" class="work__code" alt="GitHub">
         </a>
     </div>
@@ -150,7 +149,7 @@ For changing the screenshot:
                 <!-- Add a nice photo of yourself -->
                 <img
                 class="about__photo"
-                src="./images/syed-ali-hussnain.jpg"
+                src="./images/jaimiugithub.png"
                 alt=""
                 />
             </div>
@@ -195,28 +194,28 @@ For changing the screenshot:
         <!-- Update the links to point to your accounts -->
         <ul class="footer__social-links">
             <li class="footer__social-link-item">
-                <a href="https://twitter.com/nisarhassan12/">
+                <a href="https://twitter.com/Adewalemj009">
                     <img src="./images/twitter.svg" class="footer__social-image" alt="Twitter">
                 </a>
             </li>
             <li class="footer__social-link-item">
-                <a href="https://github.com/nisarhassan12/">
+                <a href="https://github.com/jaamiujamaal">
                     <img src="./images/github.svg" class="footer__social-image" alt="Github">
                 </a>
             </li>
             <li class="footer__social-link-item">
-                <a href="https://codepen.io/nisar_hassan">
+                <a href="https://codepen.io/">
                     <img src="./images/codepen.svg" class="footer__social-image" alt="Codepen">
                 </a>
             </li>
             <li class="footer__social-link-item">
-                <a href=https://www.linkedin.com/in/nisar-hassan-naqvi-413466199/">
+                <a href="https://www.linkedin.com/in/jamiu-adewale-83082a139/">
                     <img src="./images/linkedin.svg" class="footer__social-image" alt="Linkedin">
                 </a>
             </li>
         </ul>
 
-        <!-- If you give me some credit by keeping the below paragraph, will be huge for me 😊 Thanks. -->
+        <!-- If you give the developeer some credit by keeping the below paragraph, will be huge for him 😊 Thanks. -->
         <p>
           &copy; 2020 - Template designed & developed by <a href="https://nisar.dev">Nisar</a>.
         </p>
